@@ -113,24 +113,29 @@ The dataset contains BlinkIT grocery sales information, including:
 
 ## 📁 Project Structure
 
-```
+```text
 BlinkIT-Sales-Analytics-Dashboard/
 │
-├── BlinkIT Dashboard.pbix
-├── README.md
-├── LICENSE
-│
-├── Dataset/
+├── Data/
 │   └── BlinkIT Grocery Data.xlsx
 │
 ├── Images/
-│   └── Dashboard.png
+│   ├── Blinkit_MainDashboard.png
+│   ├── Blinkit_Table.png
+│   ├── Avg Sales.png
+│   ├── Sales.png
+│   ├── Items.png
+│   ├── rating.png
+│   ├── filter.png
+│   ├── home.png
+│   ├── refresh.png
+│   └── table.png
 │
-└── SQL/
-    └── SQL_Queries.sql
+├── BlinkIT Grocery Sales Dashboard.pbix
+├── Blinkit Analysis.pdf
+├── README.md
+└── LICENSE
 ```
-
----
 
 ## 🚀 Skills Demonstrated
 
